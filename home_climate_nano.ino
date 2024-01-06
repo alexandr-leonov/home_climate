@@ -52,7 +52,6 @@ void loop() {
     delay(3000);
 
     clearScreen();
-+
   }
   else Serial.println("error");
 }
