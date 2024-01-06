@@ -6,8 +6,6 @@
 - DS18B20 sensor temperature
 - 1.8'128X160 RGB_TFT display 
 
-Исходный код:
-
 Схема:
 ![Cхема](./home_climate_scheme.png)
 
